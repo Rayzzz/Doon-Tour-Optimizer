@@ -255,11 +255,11 @@ int main()
     printf("The most optimal route for you would be:\n");
     print_start();
 
-	shortest_path();
+    shortest_path();
 
-	print_start();
-	printf("\n");
+    print_start();
+    printf("\n");
 
-	return 0;
+    return 0;
 
 }
